@@ -52,5 +52,3 @@
 ### 🌐 Languages
 - English: Fluent
 - Ewe: Fluent
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agbibright&show_icons=true&locale=en&layout=compact" alt="agbibright" /></p>
